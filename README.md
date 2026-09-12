@@ -1,18 +1,24 @@
 <div align="center">
 
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Keshav%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20GenAI%20%26%20LLM%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
 <!-- Profile Picture -->
-<img src="https://avatars.githubusercontent.com/u/184419097?v=4" width="140" style="border-radius: 50%;" alt="Keshav's Profile Picture" />
+<img src="https://avatars.githubusercontent.com/u/184419097?v=4" width="140" style="border-radius: 50%; border: 3px solid #6E40C9;" alt="Keshav's Profile Picture" />
 
 <br/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Keshav+%F0%9F%91%8B;Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;GenAI+%26+LLM+Enthusiast+%F0%9F%A4%96;Exploring+AI%2FML+%F0%9F%A7%A0;Turning+Ideas+into+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=keshav62&label=Profile+Views&color=6E40C9&style=flat-square" alt="Profile Views" />
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=keshav62&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/keshav62?label=Followers&style=flat-square&color=6E40C9" alt="Followers" />
+<img src="https://img.shields.io/github/followers/keshav62?label=Followers&style=for-the-badge&color=6E40C9" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20SaaS%20Products-6E40C9?style=for-the-badge" alt="Focus" />
 
 </div>
 
@@ -23,9 +29,10 @@
 ```javascript
 const keshav = {
   name:        "Keshav",
-  role:        "Full Stack Developer (MERN)",
+  role:        "Full Stack Developer (MERN) | GenAI & LLM Enthusiast",
   location:    "India 🇮🇳",
   passion:     "Building products that solve real problems",
+  currentFocus:"Exploring AI/ML, LLMs & intelligent applications",
   goal:        "Craft clean, scalable, and impactful web experiences",
   available:   true // open to exciting opportunities
 };
@@ -35,14 +42,15 @@ const keshav = {
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** specialising in the **MERN stack** — building fast, modern, and production-ready web applications from the ground up.
+I'm a **Full Stack Developer** specialising in the **MERN stack**, now expanding into **GenAI & LLM-powered applications** — building fast, modern, and production-ready web apps that put AI to real use.
 
+- 🚀 Full-Stack Developer | 🤖 GenAI & LLM Enthusiast | 🧠 Exploring AI/ML
 - 🔭 I'm currently building **AI-powered SaaS products** with real-world use cases
-- 🌱 Actively learning **Next.js**, **TypeScript**, and **System Design**
-- 🎯 Career goal: Join a high-growth team where I can ship impactful products at scale
+- 🌱 Actively learning **Next.js**, **TypeScript**, **System Design**, and **LLM integrations**
+- 🎯 Career goal: Join a high-growth team where I can ship impactful, intelligent products at scale
 - 💡 I believe in writing code that's not just functional, but *maintainable and elegant*
-- 🤝 Always open to **collaborating** on innovative open-source projects
-- 📫 Reach me at: **[LinkedIn](#)** | **[Email](#)**
+- 🤝 Always open to **collaborating** on innovative open-source and AI projects
+- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/keshav62)** | **[Email](mailto:keshav62@gmail.com)**
 
 ---
 
@@ -51,8 +59,17 @@ I'm a **Full Stack Developer** specialising in the **MERN stack** — building f
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 GenAI, LLM & AI/ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge&logo=OpenAI&logoColor=white)
+![ClipDrop API](https://img.shields.io/badge/ClipDrop_API-000000?style=for-the-badge&logo=stability-ai&logoColor=white)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,6 +100,7 @@ I'm a **Full Stack Developer** specialising in the **MERN stack** — building f
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -98,6 +116,10 @@ I'm a **Full Stack Developer** specialising in the **MERN stack** — building f
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF&border_radius=12&langs_count=8" width="50%" alt="Top Languages" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=keshav62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -107,6 +129,22 @@ I'm a **Full Stack Developer** specialising in the **MERN stack** — building f
 <div align="center">
 
 [![Keshav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=keshav62&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — set up the workflow once and this animates automatically from your contribution graph.</sub>
 
 </div>
 
@@ -130,8 +168,9 @@ I'm a **Full Stack Developer** specialising in the **MERN stack** — building f
 ## 🌱 Currently Learning
 
 ```
+🔷  GenAI & LLMs    →  Prompt engineering, RAG, LangChain, vector DBs
 🔷  Next.js 14      →  App Router, Server Components, SSR/SSG
-🔷  TypeScript      →  Advanced types, generics, utility patterns  
+🔷  TypeScript      →  Advanced types, generics, utility patterns
 🔷  System Design   →  Scalable architectures, caching, load balancing
 🔷  Docker          →  Containerisation & deployment workflows
 ```
@@ -166,6 +205,6 @@ I'm a **Full Stack Developer** specialising in the **MERN stack** — building f
 
 **⭐ If you find my work interesting, drop a star on something — it genuinely makes my day!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
