@@ -1,296 +1,171 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=240&section=header&text=Keshav%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20%E2%80%A2%20GenAI%20%E2%80%A2%20AI%2FML&descSize=20&descAlignY=60" width="100%" alt="header" />
-
-<a href="https://github.com/keshav62">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8E2DE2&center=true&vCenter=true&random=false&width=720&height=50&lines=Building+full-stack+apps+that+ship+%F0%9F%9A%80;Turning+LLMs+into+real+products+%F0%9F%A4%96;Multi-agent+systems+%26+RAG+pipelines+%F0%9F%A7%A0;600%2B+DSA+problems+solved+%F0%9F%A7%A9;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Learn+%E2%86%92+Repeat" alt="Typing animation" />
+<div align="center"><!-- Animated hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:06B6D4&height=230&section=header&text=Keshav%20Singh&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20%7C%20Generative%20AI&descSize=18&descAlignY=60&animation=fadeIn" alt="Keshav Singh — Full Stack and AI/ML Developer" /><a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+products%2C+not+just+projects.;Full+Stack+Engineering+%2B+Applied+AI%2FML.;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Real-time+Systems.;From+idea+to+deployment%2C+one+commit+at+a+time." alt="Animated introduction" />
 </a>
+<a href="https://github.com/keshav62"><img src="https://komarev.com/ghpvc/?username=keshav62&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/keshav62?tab=followers"><img src="https://img.shields.io/github/followers/keshav62?style=for-the-badge&logo=github&color=312e81&label=FOLLOWERS" alt="GitHub followers" /></a>
+<img src="https://img.shields.io/badge/Location-India-0e7490?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in India" />
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=keshav62&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/keshav62?label=Followers&style=for-the-badge&color=4A00E0&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-00C9FF?style=for-the-badge" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" alt="Status" />
 
-<br/><br/>
+<a href="#about-me">About</a> •
+<a href="#what-i-work-on">Focus</a> •
+<a href="#featured-projects">Projects</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#github-dashboard">GitHub</a> •
+<a href="#connect-with-me">Contact</a>
+</div>About Me
+Hey! I'm Keshav Singh, a developer interested in building useful, scalable software at the intersection of full-stack engineering, AI/ML, and Generative AI.
 
-**[About](#-about)** • **[Projects](#-featured-projects)** • **[Tech Stack](#-tech-stack)** • **[Stats](#-github-stats)** • **[Contact](#-lets-connect)**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3" width="100%" alt="divider" />
-
-</div>
-
-## 👨‍💻 About
-
-I'm a **Full Stack Developer from India** who loves building real-world products at the intersection of **software engineering, Machine Learning and Generative AI**. I learn fastest by shipping, and I care about understanding *why* something works, not just making it work.
-
-```js
+I enjoy taking an idea from problem discovery to a working product — designing APIs, building interfaces, integrating data and AI systems, and improving the experience through testing and iteration.
+- Building full-stack applications and AI-powered products.
+- Exploring LLM applications, retrieval-augmented generation (RAG), and agentic workflows.
+- Interested in machine learning, data-driven systems, and backend architecture.
+- Practising data structures, algorithms, and problem solving.
 const keshav = {
   role: "Full Stack Developer",
-  focus: ["Generative AI", "LLMs", "RAG", "AI Agents", "Machine Learning"],
-  building: ["MPLADS Drishti", "ResearchHive AI", "AI-powered SaaS"],
-  learning: ["Next.js App Router", "TypeScript", "System Design", "Docker"],
-  motto: "Don't just make it work. Understand why it works.",
+  interests: ["AI/ML", "Generative AI", "Backend Engineering", "System Design"],
+  focus: ["LLMs", "RAG", "AI Agents", "Machine Learning"],
+  tools: ["React", "Next.js", "Node.js", "Express", "Python", "FastAPI"],
+  mindset: "Build. Learn. Improve. Repeat."
 };
-```
-
-| 💻 Full-Stack Apps | 🤖 GenAI & Agents | 📊 ML & Analytics | ⚡ Real-Time |
-| :---: | :---: | :---: | :---: |
-| React, Next.js, Node, FastAPI | LangChain, LangGraph, RAG | Pandas, Scikit-learn, Isolation Forest | WebSockets, Socket.io |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3" width="100%" alt="divider" />
-</div>
-
-## 🏆 Featured Projects
-
+What I Work On
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Development</h3>
+      Building responsive applications, REST APIs, authentication flows, database-backed platforms, and real-time experiences.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Generative AI & Agents</h3>
+      Creating LLM-powered applications with RAG, tool calling, multi-agent workflows, and research automation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Machine Learning</h3>
+      Exploring data processing, feature engineering, anomaly detection, and analytical systems.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Engineering</h3>
+      Working with API design, relational data models, access control, testing, debugging, and system design.
+    </td>
+  </tr>
+</table>Featured Projects
+A selection of projects across AI, machine learning, and full-stack engineering.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ MPLADS Drishti</h3>
+      <p>Project monitoring and risk-intelligence platform for development projects. Includes analytics, anomaly detection, investigation workflows, role-based access, and AI-assisted reporting.</p>
+      <p><sub>React · Node.js · FastAPI · Scikit-learn · Supabase · Prisma</sub></p>
+      <a href="https://github.com/keshav62/mplads_ai">Repository</a> ·
+      <a href="https://github.com/keshav62/SIH2026_techhustlers">SIH project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 ResearchHive AI</h3>
+      <p>Multi-agent research system where specialised agents search, investigate, critique, and compile research into a structured report.</p>
+      <p><sub>Python · FastAPI · LangGraph · LangChain · Tavily · Groq · React</sub></p>
+      <a href="https://github.com/keshav62/ResearchHive-AI-A-Multi-Agent-Research-System">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 CourseMate AI</h3>
+      <p>RAG-based study assistant that lets users ask questions about uploaded PDFs and receive answers grounded in their learning material.</p>
+      <p><sub>Python · LangChain · Gemini · ChromaDB · Hugging Face</sub></p>
+      <a href="https://github.com/keshav62/CourseMate-AI-Using-RAG">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Intervue AI</h3>
+      <p>AI interview preparation platform with mock interviews, system-design practice, an AI co-pilot, and progress analytics.</p>
+      <p><sub>Next.js · TypeScript · Gemini · Prisma · PostgreSQL · Stream Video</sub></p>
+      <a href="https://github.com/keshav62/AI-Powered-Interview-Platform-">Repository</a>
+    </td>
+  </tr>
+</table><details>
+  <summary><strong>More AI & SaaS projects</strong></summary>Project	Description	Stack
+MindGPT	AI chat and image-generation SaaS with credits, chat sessions, voice-to-text, and a community gallery	React, Node.js, MongoDB, Gemini, ImageKit, Stripe
+Text-to-Image SaaS	Prompt-to-image generation app with credits, plans, and downloads	React, Node.js, MongoDB, Clipdrop
+City Intelligence Agent	Tool-using agent for city-related weather, news, and web research	Python, LangChain, Gemini, Tavily
 
-### 🏛️ MPLADS Drishti
-**AI project monitoring & risk intelligence** for government development projects: anomaly detection, investigations, RBAC and AI-generated reports.
 
-`React` `Node.js` `FastAPI` `Scikit-learn` `Supabase` `Prisma`
+</details><details>
+  <summary><strong>More full-stack projects</strong></summary>Project	Description	Stack
+DoubtBridge	Peer-to-peer academic doubt resolution platform	Next.js, React, Prisma, PostgreSQL
+CivicConnect	Civic issue reporting with maps and role-based workflows	React, Node.js, Express
+LibraFlow	Library management and digital catalog	Next.js, React, TypeScript, Clerk, Prisma
+Learning Management System	Course platform with video lectures, progress tracking, and payments	React, Node.js, MongoDB, Clerk, Stripe
+Real-Time Chat	Messaging with presence, typing indicators, and read receipts	React, Socket.IO, MongoDB, JWT
+Inventory System	Inventory tracking, reorder alerts, and procurement workflows	Node.js, MongoDB
 
-[Repository](https://github.com/keshav62/mplads_ai) • [SIH2026](https://github.com/keshav62/SIH2026_techhustlers)
 
-</td>
-<td width="50%" valign="top">
+</details>Tech Stack
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css&theme=dark" alt="C++, Java, Python, JavaScript, TypeScript, HTML and CSS" />
+</p>Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="React, Next.js, Redux, Tailwind CSS and Bootstrap" />
+</p>Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express and FastAPI" />
+</p>Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Supabase and Prisma" />
+</p>AI / ML & GenAI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-0E7490?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark" alt="Git, GitHub, Docker, Postman, VS Code and Vercel" />
+</p>Problem Solving
+I regularly practise data structures and algorithms to strengthen my problem-solving and analytical thinking.
 
-### 🔬 ResearchHive AI
-**Multi-agent research system.** Scout, Researcher and Critic agents search, scrape, verify and write the final report.
+800+ problems solved across LeetCode and other practice platforms.
 
-`Python` `FastAPI` `LangGraph` `LangChain` `Tavily` `Groq` `React`
-
-[Repository](https://github.com/keshav62/ResearchHive-AI-A-Multi-Agent-Research-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 CourseMate AI
-**RAG study assistant.** Upload PDFs and get answers grounded in your own material, with source references.
-
-`Python` `LangChain` `Gemini` `ChromaDB` `HuggingFace`
-
-[Repository](https://github.com/keshav62/CourseMate-AI-Using-RAG)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Intervue AI
-**AI interview platform** with mock interviews, system design practice, an AI co-pilot and progress analytics.
-
-`Next.js` `TypeScript` `Gemini` `Prisma` `PostgreSQL` `Stream Video`
-
-[Repository](https://github.com/keshav62/AI-Powered-Interview-Platform-)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🏗️ MPLADS Drishti — architecture</b></summary>
-
-```mermaid
-flowchart TD
-    A[React Dashboard] --> B[Node.js API Gateway]
-    B --> C[(Supabase / Prisma)]
-    B --> D[FastAPI ML Engine]
-    D --> E[Pandas Feature Engineering]
-    E --> F[Isolation Forest]
-    F --> G[Risk / Anomaly Score]
-    G --> B
-```
-
-**Highlights:** Isolation Forest anomaly detection • investigation management • AI-assisted reports • role-based and data-level security • State / District / Constituency filtering • time-series and financial analytics.
-
-</details>
-
-<details>
-<summary><b>🤖 ResearchHive AI — agent workflow</b></summary>
-
-```mermaid
-flowchart LR
-    Q[User Query] --> S[🔭 Scout Agent]
-    S --> T[🌐 Tavily Search]
-    T --> R[🔬 Researcher Agent]
-    R --> C[🧐 Critic Agent]
-    C -->|needs more| S
-    C -->|verified| F[📝 Final Report]
-```
-
-**Highlights:** specialised agents instead of one do-everything model • web search and scraping • source collection • automated, quality-checked reports.
-
-</details>
-
-### 🚀 More Projects
-
-<details>
-<summary><b>AI &amp; SaaS</b></summary>
-<br/>
-
-| Project | What it does | Stack | Link |
-| :-- | :-- | :-- | :-: |
-| 🤖 **MindGPT** | AI chat + image generation SaaS with Stripe credits, voice-to-text, chat sessions and community gallery | React, Node, MongoDB, Gemini, ImageKit, Stripe | [Repo](https://github.com/keshav62/-MindGPT---AI-Chat-Image-Generator-SaaS-MERN-Gemini-Stripe-) |
-| 🎨 **Text-to-Image SaaS** | Prompt-to-image generator with credits, pricing plans and downloads | React, Node, MongoDB, Clipdrop API | [Repo](https://github.com/keshav62/AI-Text-to-Image-Generator-SaaS-) |
-| 🏙️ **City Intelligence Agent** | Tool-using agent for live weather, news and web search about any city | Python, LangChain, Gemini, Tavily | [Repo](https://github.com/keshav62/City-Intelligence-Agent) |
-
-</details>
-
-<details>
-<summary><b>Full-stack platforms</b></summary>
-<br/>
-
-| Project | What it does | Stack | Link |
-| :-- | :-- | :-- | :-: |
-| 🏛️ **CivicConnect** | Civic issue reporter with GPS, maps, heatmaps and citizen / admin / field-worker roles | React, Node, Express, Maps | [Repo](https://github.com/keshav62/Pothole-Civic-Issue-Reporter-with-Map-View) |
-| 📚 **LibraFlow** | Library management and digital catalog | Next.js 16, React 19, TS, Clerk, Prisma | [Repo](https://github.com/keshav62/Library-Management-System) |
-| 🎓 **Learning Management System** | Courses, video lectures, progress tracking, Stripe payments | React, Node, MongoDB, Clerk, Stripe | [Repo](https://github.com/keshav62/LEARNING-MANAGEMENT-SYSTEM) |
-| 💬 **Real-Time Chat** | Instant messaging with typing indicators, read receipts and presence | React, Socket.io, MongoDB, JWT | [Repo](https://github.com/keshav62/RealTime-Chat-Application-) |
-| 📦 **Inventory System** | Stock tracking, EOQ calculation, reorder alerts, procurement | Node, MongoDB | [Repo](https://github.com/keshav62/inventory-system) |
-
-</details>
-
-<details>
-<summary><b>Learning &amp; experiments</b></summary>
-<br/>
-
-[🛒 Amazon Clone](https://github.com/keshav62/Amazon-clone) •
-[🎬 Netflix Clone](https://github.com/keshav62/Netflix-clone) •
-[📖 Bright Future](https://github.com/keshav62/BRIGHT-FUTURE) •
-[🏗️ System Design](https://github.com/keshav62/SYSTEM-DESIGN) •
-[💻 Operating System](https://github.com/keshav62/Operating_System) •
-[🏆 Hackathon](https://github.com/keshav62/hackathon) •
-[🚀 Itzfizz](https://github.com/keshav62/Itzfizz)
-
-</details>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3" width="100%" alt="divider" />
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css&theme=dark" alt="Languages" />
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend" />
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend" />
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,prisma&theme=dark" alt="Databases" />
-
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=pandas,sklearn&theme=dark" alt="ML" /><br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-<img src="https://img.shields.io/badge/RAG-8E2DE2?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/AI_Agents-4A00E0?style=for-the-badge" alt="AI Agents" />
-
-**Auth, Payments & Services**<br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/ImageKit-00AEEF?style=for-the-badge" alt="ImageKit" />
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark" alt="Tools" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3" width="100%" alt="divider" />
-</div>
-
-## 🧩 DSA &amp; Problem Solving
-
-**600+ problems solved** across LeetCode and practice sets.
-
-`Arrays & Strings` `Hashing` `Sliding Window` `Two Pointers` `Binary Search` `Prefix Sum` `Linked Lists` `Stack & Queue` `Trees` `Heaps` `Graphs` `BFS / DFS` `Dijkstra` `Topological Sort` `Dynamic Programming` `Segment Trees` `Greedy`
-
-## 🎯 Highlights
-
-- 🏆 Hackathon Winner
-- 🤖 Built AI-powered SaaS apps and multi-agent systems
-- 📊 Built ML-based risk and anomaly detection
-- ⚡ Built real-time apps with WebSockets
-- 🚀 Shipped many full-stack applications end to end
-
-## 🌱 Currently Learning
-
-| Area | Focus |
-| :-- | :-- |
-| 🤖 **GenAI** | Prompt engineering, RAG, agents, tool calling, multi-agent systems |
-| ⚛️ **Next.js** | App Router, Server Components, full-stack apps |
-| 🔷 **TypeScript** | Advanced types, generics, type-safe architecture |
-| 🏗️ **System Design** | Caching, load balancing, distributed systems |
-| 🐳 **Docker** | Containers, images, deployment |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3" width="100%" alt="divider" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/keshav62">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav62&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=00C9FF&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+Arrays & Strings · Hashing · Binary Search · Sliding Window · Trees · Heaps · Graphs · BFS / DFS · Dijkstra · Dynamic Programming · Greedy · Segment Trees
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>Highlights
+- 🏆 Hackathon winner.
+- 🤖 Built LLM-powered applications and multi-agent workflows.
+- 📊 Worked on ML-based risk analysis and anomaly detection.
+- ⚡ Built real-time applications using WebSockets / Socket.IO.
+- 🧩 Enjoy solving algorithmic problems and learning system design.
+Currently Exploring
+- Generative AI: RAG evaluation, agentic workflows, tool calling, and multi-agent systems.
+- Full Stack: Next.js, TypeScript, API architecture, and production-ready application patterns.
+- System Design: Caching, scalability, distributed systems, and reliability.
+- Engineering Practices: Docker, testing, observability, and deployment.
+GitHub Dashboard
+<div align="center"><a href="https://github.com/keshav62">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=keshav62&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=E5E7EB" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/keshav62">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav62&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=FFFFFF" height="180" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav62&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Most used languages" />
 </a>
 
-<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=keshav62&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" width="70%" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=keshav62&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=keshav62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" alt="Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav62&theme=react-dark&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/keshav62"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshav62&theme=react-dark&bg_color=0D1117&color=22D3EE&line=818CF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" /></div>Contribution Snake
+<div align="center"><!-- Enable the GitHub Actions workflow described below to generate this SVG. -->
+<img src="https://raw.githubusercontent.com/keshav62/keshav62/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" /></div>Connect With Me
+<div align="center"><a href="https://github.com/keshav62"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/keshav62"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:keshav62@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/><br/>
 
-> *Coffee + Code = Productive Day ☕*
 
-<a href="https://github.com/keshav62">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00C9FF&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+great+together." alt="Footer typing" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
-
-</div>
+“Great products are built by staying curious, solving real problems, and improving every day.”
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B1020&height=130&section=footer" alt="Footer banner" /></div>
