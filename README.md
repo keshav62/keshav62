@@ -1,5 +1,5 @@
 <div align="center"><!-- Anime-inspired hero banner: add anime-hero-banner.png to an assets/ folder in this profile repository -->
-<img width="100%" src="./assets/anime-hero-banner.png" alt="Anime-inspired purple cyberpunk hero banner for Keshav Singh, Full Stack Developer, GenAI Engineer and AI/ML Enthusiast" /><a href="https://readme-typing-svg.demolab.com">
+<img width="100%" src="./anime-hero-banner.png" alt="Anime-inspired purple cyberpunk hero banner for Keshav Singh, Full Stack Developer, GenAI Engineer and AI/ML Enthusiast" /><a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+products%2C+not+just+projects.;Full+Stack+Engineering+%2B+Applied+AI%2FML.;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Real-time+Systems.;From+idea+to+deployment%2C+one+commit+at+a+time." alt="Animated introduction" />
 </a>
 <a href="https://github.com/keshav62"><img src="https://komarev.com/ghpvc/?username=keshav62&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" /></a>
